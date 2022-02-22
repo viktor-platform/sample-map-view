@@ -21,3 +21,7 @@ entities:
         - entity_type: GeoAnalysis
           properties:
             name: Example Geo Analysis
+
+# Meta data
+metadata:
+    background_image: background_image.jpg
