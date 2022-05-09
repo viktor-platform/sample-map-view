@@ -21,7 +21,7 @@ None.
 None.
 
 ### Internal
-None.
+- Upgraded to VIKTOR v13
 
 ## v1.0.0
 ### Added
